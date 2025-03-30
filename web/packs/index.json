@@ -1,7 +1,13 @@
 {
   "packs": [
     "BrokenCats.json",
-    "TheMatrixMovie.json"
+    "TheMatrixMovie.json",
+    "riposte.json",
+    "InternetAddiction.json",
+    "futurama_pouyasaadeghi.json",
+    "PatrickBob.json",
+    "Queen_Elizabeth_II_Pack.json",
+    "MemeBigPack.json"
   ],
   "homeserver_url": "https://tomfos.tr"
 }
