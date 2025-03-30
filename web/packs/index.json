@@ -1,1 +1,7 @@
-{"packs":["BrokenCats.json"],"homeserver_url":"https://tomfos.tr"}
+{
+  "packs": [
+    "BrokenCats.json",
+    "TheMatrixMovie.json"
+  ],
+  "homeserver_url": "https://tomfos.tr"
+}
